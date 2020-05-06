@@ -19,10 +19,10 @@ namespace cscomment
                 {
                     Console.WriteLine(x * y);
                 }
-                else
-                {
-                    Console.WriteLine();
-                }
+            }
+            else
+            {
+                Console.WriteLine();
             }
         }
     }
